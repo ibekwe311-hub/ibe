@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: black;
+}
+
+#logo {
+  position: absolute;
+  width: 120px;
+  height: auto;
+  filter: hue-rotate(0deg);
+}
